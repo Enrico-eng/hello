@@ -13,6 +13,7 @@ int main(int argc, char **argv) {
 
   printf("Hello I'm Fahri!\n");
   printf("Major is MIS!\n");
+  printf("Minor is Japanese\n");
 
   return 0;
 }
